@@ -5,7 +5,6 @@ title: Libraries and tools
 **Tools**
 
 - [etcdctl](https://github.com/etcd-io/etcd/tree/master/etcdctl) - A command line client for etcd
-- [etcd-backup](https://github.com/fanhattan/etcd-backup) - A powerful command line utility for dumping/restoring etcd - Supports v2
 - [etcd-dump](https://npmjs.org/package/etcd-dump) - Command line utility for dumping/restoring etcd.
 - [etcd-fs](https://github.com/xetorthio/etcd-fs) - FUSE filesystem for etcd
 - [etcddir](https://github.com/rekby/etcddir) - Realtime sync etcd and local directory. Work with windows and linux.
